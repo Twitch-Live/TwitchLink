@@ -1,590 +1,737 @@
 {
   "error": {
     "en": "Error",
-    "ko": "오류"
+    "ko": "오류",
+    "fr": "Erreur"
   },
   "warning": {
     "en": "Warning",
-    "ko": "경고"
+    "ko": "경고",
+    "fr": "Avertissement"
   },
   "session-expired": {
     "en": "Session Expired",
-    "ko": "세션 만료"
+    "ko": "세션 만료",
+    "fr": "Session expirée"
   },
   "service-unavailable": {
     "en": "Service Unavailable",
-    "ko": "서비스 불가"
+    "ko": "서비스 불가",
+    "fr": "Service indisponible"
   },
   "update": {
     "en": "Update",
-    "ko": "업데이트"
+    "ko": "업데이트",
+    "fr": "Mise à jour"
   },
   "open": {
     "en": "Open",
-    "ko": "열기"
+    "ko": "열기",
+    "fr": "Ouvrir"
   },
   "exit": {
     "en": "Exit",
-    "ko": "종료"
+    "ko": "종료",
+    "fr": "Quitter"
   },
   "ok": {
     "en": "OK",
-    "ko": "확인"
+    "ko": "확인",
+    "fr": "OK"
   },
   "cancel": {
     "en": "Cancel",
-    "ko": "취소"
+    "ko": "취소",
+    "fr": "Annuler"
   },
   "close": {
     "en": "Close",
-    "ko": "닫기"
+    "ko": "닫기",
+    "fr": "Fermer"
   },
   "notification": {
     "en": "Notification",
-    "ko": "알림"
+    "ko": "알림",
+    "fr": "Notification"
   },
   "shutting-down": {
     "en": "Shutting Down",
-    "ko": "종료하는 중"
+    "ko": "종료하는 중",
+    "fr": "Arrêt en cours"
   },
   "terms-of-service": {
     "en": "Terms of Service",
-    "ko": "이용약관"
+    "ko": "이용약관",
+    "fr": "Conditions d'utilisation"
   },
   "recommended-update": {
     "en": "Recommended update",
-    "ko": "권장 업데이트"
+    "ko": "권장 업데이트",
+    "fr": "Mise à jour recommandée"
   },
   "required-update": {
     "en": "Required update",
-    "ko": "필수 업데이트"
+    "ko": "필수 업데이트",
+    "fr": "Mise à jour requise"
   },
   "no-results-found": {
     "en": "No Results Found",
-    "ko": "검색 결과 없음"
+    "ko": "검색 결과 없음",
+    "fr": "Aucun résultat trouvé"
   },
   "developer-tools": {
     "en": "Developer Tools",
-    "ko": "개발자 도구"
+    "ko": "개발자 도구",
+    "fr": "Outils de développement"
   },
   "sign-in": {
     "en": "Sign In",
-    "ko": "로그인"
+    "ko": "로그인",
+    "fr": "Se connecter"
   },
   "cancel-sign-in": {
     "en": "Cancel Sign-In",
-    "ko": "로그인 취소"
+    "ko": "로그인 취소",
+    "fr": "Annuler la connexion"
   },
   "sign-out": {
     "en": "Sign Out",
-    "ko": "로그아웃"
+    "ko": "로그아웃",
+    "fr": "Se déconnecter"
   },
   "detect-automatically": {
     "en": "Detect Automatically",
-    "ko": "자동 감지"
+    "ko": "자동 감지",
+    "fr": "Détecter automatiquement"
   },
   "profile": {
     "en": "Profile",
-    "ko": "프로필"
+    "ko": "프로필",
+    "fr": "Profil"
   },
   "version": {
     "en": "Version",
-    "ko": "버전"
+    "ko": "버전",
+    "fr": "Version"
   },
   "authentication-error": {
     "en": "Authentication Error",
-    "ko": "인증 오류"
+    "ko": "인증 오류",
+    "fr": "Erreur d'authentification"
   },
   "unable-to-download": {
     "en": "Unable to download",
-    "ko": "다운로드 불가"
+    "ko": "다운로드 불가",
+    "fr": "Impossible de télécharger"
   },
   "change-account": {
     "en": "Change account",
-    "ko": "계정 변경"
+    "ko": "계정 변경",
+    "fr": "Changer de compte"
   },
   "offline": {
     "en": "Offline",
-    "ko": "오프라인"
+    "ko": "오프라인",
+    "fr": "Hors ligne"
   },
   "live": {
     "en": "Live",
-    "ko": "실시간"
+    "ko": "실시간",
+    "fr": "En direct"
   },
   "rerun": {
     "en": "Rerun",
-    "ko": "재방송"
+    "ko": "재방송",
+    "fr": "Rediffusion"
   },
   "partner-streamer": {
     "en": "Partner Streamer",
-    "ko": "파트너 스트리머"
+    "ko": "파트너 스트리머",
+    "fr": "Streamer Partenaire"
   },
   "affiliate-streamer": {
     "en": "Affiliate Streamer",
-    "ko": "제휴 스트리머"
+    "ko": "제휴 스트리머",
+    "fr": "Streamer Affilié"
   },
   "streamer": {
     "en": "Streamer",
-    "ko": "일반 스트리머"
+    "ko": "일반 스트리머",
+    "fr": "Streamer"
   },
   "loading": {
     "en": "Loading",
-    "ko": "불러오는 중"
+    "ko": "불러오는 중",
+    "fr": "Chargement"
   },
   "downloading": {
     "en": "Downloading",
-    "ko": "다운로드 중"
+    "ko": "다운로드 중",
+    "fr": "Téléchargement"
   },
   "file": {
     "en": "File",
-    "ko": "파일"
+    "ko": "파일",
+    "fr": "Fichier"
   },
   "filename-change": {
     "en": "Filename Change",
-    "ko": "파일명 변경"
+    "ko": "파일명 변경",
+    "fr": "Changement de nom de fichier"
   },
   "crop": {
     "en": "Crop",
-    "ko": "자르기"
+    "ko": "자르기",
+    "fr": "Rogner"
   },
   "overwrite": {
     "en": "Overwrite",
-    "ko": "덮어쓰기"
+    "ko": "덮어쓰기",
+    "fr": "Écraser"
   },
   "unknown": {
     "en": "Unknown",
-    "ko": "알 수 없음"
+    "ko": "알 수 없음",
+    "fr": "Inconnu"
   },
   "best": {
     "en": "Best",
-    "ko": "최고"
+    "ko": "최고",
+    "fr": "Meilleure"
   },
   "worst": {
     "en": "Worst",
-    "ko": "최저"
+    "ko": "최저",
+    "fr": "Pire"
   },
   "high": {
     "en": "High",
-    "ko": "높음"
+    "ko": "높음",
+    "fr": "Élevée"
   },
   "low": {
     "en": "Low",
-    "ko": "낮음"
+    "ko": "낮음",
+    "fr": "Faible"
   },
   "audio-only": {
     "en": "Audio Only",
-    "ko": "라디오 모드"
+    "ko": "라디오 모드",
+    "fr": "Audio seulement"
   },
   "source": {
     "en": "Source",
-    "ko": "원본"
+    "ko": "원본",
+    "fr": "Source"
   },
   "ad-block": {
     "en": "Ad Block",
-    "ko": "광고 차단"
+    "ko": "광고 차단",
+    "fr": "Bloqueur de publicité"
   },
   "skip-segments": {
     "en": "Skip Segments",
-    "ko": "구간 건너뛰기"
+    "ko": "구간 건너뛰기",
+    "fr": "Sauter les segments"
   },
   "alternative-screen": {
     "en": "Alternative Screen",
-    "ko": "대체 화면"
+    "ko": "대체 화면",
+    "fr": "Écran alternatif"
   },
   "preparing": {
     "en": "Preparing",
-    "ko": "준비 중"
+    "ko": "준비 중",
+    "fr": "Préparation"
   },
   "live-downloading": {
     "en": "Live Downloading",
-    "ko": "실시간 다운로드 중"
+    "ko": "실시간 다운로드 중",
+    "fr": "Téléchargement en direct"
   },
   "tracking-updates": {
     "en": "Tracking Updates",
-    "ko": "업데이트 추적 중"
+    "ko": "업데이트 추적 중",
+    "fr": "Suivi des mises à jour"
   },
   "next-update": {
     "en": "Next Update",
-    "ko": "다음 업데이트"
+    "ko": "다음 업데이트",
+    "fr": "Prochaine mise à jour"
   },
   "no-changes-found": {
     "en": "No Changes Found",
-    "ko": "변경사항 없음"
+    "ko": "변경사항 없음",
+    "fr": "Aucun changement trouvé"
   },
   "tracking-complete": {
     "en": "Tracking Complete",
-    "ko": "추적 완료"
+    "ko": "추적 완료",
+    "fr": "Suivi terminé"
   },
   "stopping": {
     "en": "Stopping",
-    "ko": "중지하는 중"
+    "ko": "중지하는 중",
+    "fr": "Arrêt en cours"
   },
   "canceling": {
     "en": "Canceling",
-    "ko": "취소하는 중"
+    "ko": "취소하는 중",
+    "fr": "Annulation en cours"
   },
   "pausing": {
     "en": "Pausing",
-    "ko": "일시정지 중"
+    "ko": "일시정지 중",
+    "fr": "Mise en pause"
   },
   "stop": {
     "en": "Stop",
-    "ko": "중지"
+    "ko": "중지",
+    "fr": "Arrêter"
   },
   "pause": {
     "en": "Pause",
-    "ko": "일시정지"
+    "ko": "일시정지",
+    "fr": "Pause"
   },
   "resume": {
     "en": "Resume",
-    "ko": "재개"
+    "ko": "재개",
+    "fr": "Reprendre"
   },
   "paused": {
     "en": "Paused",
-    "ko": "일시정지됨"
+    "ko": "일시정지됨",
+    "fr": "En pause"
   },
   "stop-download": {
     "en": "Stop Download",
-    "ko": "다운로드 중지"
+    "ko": "다운로드 중지",
+    "fr": "Arrêter le téléchargement"
   },
   "cancel-download": {
     "en": "Cancel Download",
-    "ko": "다운로드 취소"
+    "ko": "다운로드 취소",
+    "fr": "Annuler le téléchargement"
   },
   "save-complete": {
     "en": "Save Complete",
-    "ko": "저장 완료"
+    "ko": "저장 완료",
+    "fr": "Enregistrement terminé"
   },
   "download-complete": {
     "en": "Download Complete",
-    "ko": "다운로드 완료"
+    "ko": "다운로드 완료",
+    "fr": "Téléchargement terminé"
   },
   "download-started": {
     "en": "Download Started",
-    "ko": "다운로드 시작됨"
+    "ko": "다운로드 시작됨",
+    "fr": "Téléchargement commencé"
   },
   "download-aborted": {
     "en": "Download Aborted",
-    "ko": "다운로드 중단됨"
+    "ko": "다운로드 중단됨",
+    "fr": "Téléchargement interrompu"
   },
   "download-stopped": {
     "en": "Download Stopped",
-    "ko": "다운로드 중지됨"
+    "ko": "다운로드 중지됨",
+    "fr": "Téléchargement arrêté"
   },
   "download-canceled": {
     "en": "Download Canceled",
-    "ko": "다운로드 취소됨"
+    "ko": "다운로드 취소됨",
+    "fr": "Téléchargement annulé"
   },
   "creating": {
     "en": "Creating",
-    "ko": "생성 중"
+    "ko": "생성 중",
+    "fr": "Création"
   },
   "file-not-found": {
     "en": "File Not Found",
-    "ko": "파일을 찾을 수 없음"
+    "ko": "파일을 찾을 수 없음",
+    "fr": "Fichier introuvable"
   },
   "open-file": {
     "en": "Open File",
-    "ko": "파일 열기"
+    "ko": "파일 열기",
+    "fr": "Ouvrir le fichier"
   },
   "open-folder": {
     "en": "Open Folder",
-    "ko": "폴더 열기"
+    "ko": "폴더 열기",
+    "fr": "Ouvrir le dossier"
   },
   "view-logs": {
     "en": "View Logs",
-    "ko": "로그 보기"
+    "ko": "로그 보기",
+    "fr": "Voir les journaux"
   },
   "report-error": {
     "en": "Report Error",
-    "ko": "오류 보고하기"
+    "ko": "오류 보고하기",
+    "fr": "Signaler une erreur"
   },
   "system-error": {
     "en": "System Error",
-    "ko": "시스템 오류"
+    "ko": "시스템 오류",
+    "fr": "Erreur système"
   },
   "network-error": {
     "en": "Network Error",
-    "ko": "네트워크 오류"
+    "ko": "네트워크 오류",
+    "fr": "Erreur réseau"
   },
   "process-error": {
     "en": "Process Error",
-    "ko": "프로세스 오류"
+    "ko": "프로세스 오류",
+    "fr": "Erreur de processus"
   },
   "unexpected-error": {
     "en": "Unexpected Error",
-    "ko": "예기치 못한 오류"
+    "ko": "예기치 못한 오류",
+    "fr": "Erreur inattendue"
   },
   "contribute": {
     "en": "Contribute",
-    "ko": "기여"
+    "ko": "기여",
+    "fr": "Contribuer"
   },
   "restricted-content": {
     "en": "Restricted Content",
-    "ko": "제한된 콘텐츠"
+    "ko": "제한된 콘텐츠",
+    "fr": "Contenu restreint"
   },
   "reason": {
     "en": "Reason",
-    "ko": "사유"
+    "ko": "사유",
+    "fr": "Raison"
   },
   "preferred-resolution-not-found": {
     "en": "Preferred Resolution Not Found",
-    "ko": "선호하는 해상도를 찾을 수 없음"
+    "ko": "선호하는 해상도를 찾을 수 없음",
+    "fr": "Résolution préférée introuvable"
   },
   "loading-channel-data": {
     "en": "Loading Channel Data",
-    "ko": "채널 정보 불러오는 중"
+    "ko": "채널 정보 불러오는 중",
+    "fr": "Chargement des données de la chaîne"
   },
   "channel-not-found": {
     "en": "Channel Not Found",
-    "ko": "채널을 찾을 수 없음"
+    "ko": "채널을 찾을 수 없음",
+    "fr": "Chaîne introuvable"
   },
   "deactivated": {
     "en": "Deactivated",
-    "ko": "비활성화됨"
+    "ko": "비활성화됨",
+    "fr": "Désactivé"
   },
   "connecting": {
     "en": "Connecting",
-    "ko": "연결 중"
+    "ko": "연결 중",
+    "fr": "Connexion en cours"
   },
   "not-connected": {
     "en": "Not Connected",
-    "ko": "연결되지 않음"
+    "ko": "연결되지 않음",
+    "fr": "Non connecté"
   },
   "stream": {
     "en": "Stream",
-    "ko": "생방송"
+    "ko": "생방송",
+    "fr": "Stream"
   },
   "video": {
     "en": "Video",
-    "ko": "비디오"
+    "ko": "비디오",
+    "fr": "Vidéo"
   },
   "clip": {
     "en": "Clip",
-    "ko": "클립"
+    "ko": "클립",
+    "fr": "Clip"
   },
   "external-content": {
     "en": "External Content",
-    "ko": "외부 콘텐츠"
+    "ko": "외부 콘텐츠",
+    "fr": "Contenu externe"
   },
   "channel-offline-image": {
     "en": "Channel Offline Image",
-    "ko": "채널 오프라인 이미지"
+    "ko": "채널 오프라인 이미지",
+    "fr": "Image hors ligne de la chaîne"
   },
   "preview": {
     "en": "Preview",
-    "ko": "미리보기"
+    "ko": "미리보기",
+    "fr": "Aperçu"
   },
   "download": {
     "en": "Download",
-    "ko": "다운로드"
+    "ko": "다운로드",
+    "fr": "Télécharger"
   },
   "live-download": {
     "en": "Live Download",
-    "ko": "실시간 다운로드"
+    "ko": "실시간 다운로드",
+    "fr": "Téléchargement en direct"
   },
   "past-broadcasts": {
     "en": "Past Broadcasts",
-    "ko": "지난 방송"
+    "ko": "지난 방송",
+    "fr": "Diffusions passées"
   },
   "highlights": {
     "en": "Highlights",
-    "ko": "하이라이트"
+    "ko": "하이라이트",
+    "fr": "Temps forts"
   },
   "clips": {
     "en": "Clips",
-    "ko": "클립"
+    "ko": "클립",
+    "fr": "Clips"
   },
   "uploads": {
     "en": "Uploads",
-    "ko": "업로드"
+    "ko": "업로드",
+    "fr": "Téléversements"
   },
   "past-premieres": {
     "en": "Past Premieres",
-    "ko": "지난 최초 공개"
+    "ko": "지난 최초 공개",
+    "fr": "Premières passées"
   },
   "all-videos": {
     "en": "All Videos",
-    "ko": "모든 동영상"
+    "ko": "모든 동영상",
+    "fr": "Toutes les vidéos"
   },
   "date": {
     "en": "Date",
-    "ko": "날짜"
+    "ko": "날짜",
+    "fr": "Date"
   },
   "popular": {
     "en": "Popular",
-    "ko": "인기"
+    "ko": "인기",
+    "fr": "Populaire"
   },
   "24h": {
     "en": "24H",
-    "ko": "24시간"
+    "ko": "24시간",
+    "fr": "24h"
   },
   "7d": {
     "en": "7D",
-    "ko": "7일"
+    "ko": "7일",
+    "fr": "7j"
   },
   "30d": {
     "en": "30D",
-    "ko": "30일"
+    "ko": "30일",
+    "fr": "30j"
   },
   "all": {
     "en": "ALL",
-    "ko": "전체"
+    "ko": "전체",
+    "fr": "TOUT"
   },
   "information": {
     "en": "Information",
-    "ko": "정보"
+    "ko": "정보",
+    "fr": "Information"
   },
   "view-file-properties": {
     "en": "View File Properties",
-    "ko": "파일 속성 보기"
+    "ko": "파일 속성 보기",
+    "fr": "Voir les propriétés du fichier"
   },
   "view-image-properties": {
     "en": "View Image Properties",
-    "ko": "이미지 속성 보기"
+    "ko": "이미지 속성 보기",
+    "fr": "Voir les propriétés de l'image"
   },
   "save-image": {
     "en": "Save Image",
-    "ko": "이미지 저장"
+    "ko": "이미지 저장",
+    "fr": "Enregistrer l'image"
   },
   "file-type": {
     "en": "File Type",
-    "ko": "파일 유형"
+    "ko": "파일 유형",
+    "fr": "Type de fichier"
   },
   "id": {
     "en": "ID",
-    "ko": "아이디"
+    "ko": "아이디",
+    "fr": "ID"
   },
   "title": {
     "en": "Title",
-    "ko": "제목"
+    "ko": "제목",
+    "fr": "Titre"
   },
   "category": {
     "en": "Category",
-    "ko": "카테고리"
+    "ko": "카테고리",
+    "fr": "Catégorie"
   },
   "slug": {
     "en": "Slug",
-    "ko": "간편 URL"
+    "ko": "간편 URL",
+    "fr": "Slug"
   },
   "channel": {
     "en": "Channel",
-    "ko": "채널"
+    "ko": "채널",
+    "fr": "Chaîne"
   },
   "creator": {
     "en": "Creator",
-    "ko": "제작자"
+    "ko": "제작자",
+    "fr": "Créateur"
   },
   "username": {
     "en": "Username",
-    "ko": "사용자 아이디"
+    "ko": "사용자 아이디",
+    "fr": "Nom d'utilisateur"
   },
   "displayname": {
     "en": "Displayname",
-    "ko": "사용자 닉네임"
+    "ko": "사용자 닉네임",
+    "fr": "Nom d'affichage"
   },
   "duration": {
     "en": "Duration",
-    "ko": "길이"
+    "ko": "길이",
+    "fr": "Durée"
   },
   "started-at": {
     "en": "Started At",
-    "ko": "시작날짜/시간"
+    "ko": "시작날짜/시간",
+    "fr": "Commencé à"
   },
   "started-date": {
     "en": "Started Date",
-    "ko": "시작날짜"
+    "ko": "시작날짜",
+    "fr": "Date de début"
   },
   "started-time": {
     "en": "Started Time",
-    "ko": "시작시간"
+    "ko": "시작시간",
+    "fr": "Heure de début"
   },
   "published-at": {
     "en": "Published At",
-    "ko": "게시날짜/시간"
+    "ko": "게시날짜/시간",
+    "fr": "Publié à"
   },
   "published-date": {
     "en": "Published Date",
-    "ko": "게시날짜"
+    "ko": "게시날짜",
+    "fr": "Date de publication"
   },
   "published-time": {
     "en": "Published Time",
-    "ko": "게시시간"
+    "ko": "게시시간",
+    "fr": "Heure de publication"
   },
   "created-at": {
     "en": "Created At",
-    "ko": "생성날짜/시간"
+    "ko": "생성날짜/시간",
+    "fr": "Créé à"
   },
   "created-date": {
     "en": "Created Date",
-    "ko": "생성날짜"
+    "ko": "생성날짜",
+    "fr": "Date de création"
   },
   "created-time": {
     "en": "Created Time",
-    "ko": "생성시간"
+    "ko": "생성시간",
+    "fr": "Heure de création"
   },
   "year": {
     "en": "Year",
-    "ko": "년"
+    "ko": "년",
+    "fr": "Année"
   },
   "month": {
     "en": "Month",
-    "ko": "월"
+    "ko": "월",
+    "fr": "Mois"
   },
   "day": {
     "en": "Day",
-    "ko": "일"
+    "ko": "일",
+    "fr": "Jour"
   },
   "hour": {
     "en": "Hour",
-    "ko": "시"
+    "ko": "시",
+    "fr": "Heure"
   },
   "minute": {
     "en": "Minute",
-    "ko": "분"
+    "ko": "분",
+    "fr": "Minute"
   },
   "second": {
     "en": "Second",
-    "ko": "초"
+    "ko": "초",
+    "fr": "Seconde"
   },
   "unix-time": {
     "en": "UNIX Time",
-    "ko": "UNIX 시간"
+    "ko": "UNIX 시간",
+    "fr": "Heure UNIX"
   },
   "views": {
     "en": "Views",
-    "ko": "조회수"
+    "ko": "조회수",
+    "fr": "Vues"
   },
   "file-resolution": {
     "en": "File Resolution",
-    "ko": "파일 해상도"
+    "ko": "파일 해상도",
+    "fr": "Résolution du fichier"
   },
   "viewer-count": {
     "en": "Viewer Count",
-    "ko": "시청자수"
+    "ko": "시청자수",
+    "fr": "Nombre de spectateurs"
   },
   "view-count": {
     "en": "View Count",
-    "ko": "조회수"
+    "ko": "조회수",
+    "fr": "Nombre de vues"
   },
   "available-resolutions": {
     "en": "Available Resolutions",
-    "ko": "선택 가능한 해상도 목록"
+    "ko": "선택 가능한 해상도 목록",
+    "fr": "Résolutions disponibles"
   },
   "filename-template": {
     "en": "Filename Template",
-    "ko": "파일명 생성 규칙"
+    "ko": "파일명 생성 규칙",
+    "fr": "Modèle de nom de fichier"
   },
   "disabled-feature": {
     "en": "Disabled Feature",
-    "ko": "비활성화된 기능"
+    "ko": "비활성화된 기능",
+    "fr": "Fonctionnalité désactivée"
   },
   "select-folder": {
     "en": "Select Folder",
-    "ko": "폴더 선택"
+    "ko": "폴더 선택",
+    "fr": "Sélectionner le dossier"
   },
   "save-as": {
     "en": "Save As",
-    "ko": "다른 이름으로 저장"
+    "ko": "다른 이름으로 저장",
+    "fr": "Enregistrer sous"
   }
 }

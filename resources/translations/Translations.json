@@ -1,542 +1,677 @@
 {
   "#Checking for updates": {
     "en": "Checking for updates",
-    "ko": "업데이트 확인 중"
+    "ko": "업데이트 확인 중",
+    "fr": "Recherche de mises à jour"
   },
   "#Loading Data": {
     "en": "Loading Data",
-    "ko": "데이터 불러오는 중"
+    "ko": "데이터 불러오는 중",
+    "fr": "Chargement des données"
   },
   "#A network error occurred while connecting to the server.": {
     "en": "A network error occurred while connecting to the server.",
-    "ko": "서버와 연결 중 네트워크 오류가 발생하였습니다."
+    "ko": "서버와 연결 중 네트워크 오류가 발생하였습니다.",
+    "fr": "Une erreur réseau s'est produite lors de la connexion au serveur."
   },
   "#An unexpected error occurred while connecting to the server.": {
     "en": "An unexpected error occurred while connecting to the server.",
-    "ko": "서버와 연결 중 예기치 못한 오류가 발생하였습니다."
+    "ko": "서버와 연결 중 예기치 못한 오류가 발생하였습니다.",
+    "fr": "Une erreur inattendue s'est produite lors de la connexion au serveur."
   },
   "#{appName} is currently unavailable.": {
     "en": "{appName} is currently unavailable.",
-    "ko": "현재 {appName} 서비스를 이용할 수 없습니다."
+    "ko": "현재 {appName} 서비스를 이용할 수 없습니다.",
+    "fr": "{appName} est actuellement indisponible."
   },
   "#A new version of {appName} has been released!": {
     "en": "A new version of {appName} has been released!",
-    "ko": "{appName}의 새로운 버전이 출시되었습니다!"
+    "ko": "{appName}의 새로운 버전이 출시되었습니다!",
+    "fr": "Une nouvelle version de {appName} est disponible !"
   },
   "#Please try again later.": {
     "en": "Please try again later.",
-    "ko": "잠시 후 다시 시도하세요."
+    "ko": "잠시 후 다시 시도하세요.",
+    "fr": "Veuillez réessayer plus tard."
   },
   "#Some features will be temporarily disabled.\nPlease wait.\nWhen the connection is restored, those features will be activated.": {
     "en": "Some features will be temporarily disabled.\nPlease wait.\nWhen the connection is restored, those features will be activated.",
-    "ko": "일부 기능이 일시적으로 비활성화됩니다.\n잠시 기다리세요.\n서버와의 연결이 복구되면 기능이 다시 활성화됩니다."
+    "ko": "일부 기능이 일시적으로 비활성화됩니다.\n잠시 기다리세요.\n서버와의 연결이 복구되면 기능이 다시 활성화됩니다.",
+    "fr": "Certaines fonctionnalités seront temporairement désactivées.\nVeuillez patienter.\nLorsque la connexion sera rétablie, ces fonctionnalités seront activées."
   },
   "#Some features will be disabled.": {
     "en": "Some features will be disabled.",
-    "ko": "일부 기능이 비활성화됩니다."
+    "ko": "일부 기능이 비활성화됩니다.",
+    "fr": "Certaines fonctionnalités seront désactivées."
   },
   "#Your session has expired.": {
     "en": "Your session has expired.",
-    "ko": "세션이 만료되었습니다."
+    "ko": "세션이 만료되었습니다.",
+    "fr": "Votre session a expiré."
   },
   "#Please restart the app.": {
     "en": "Please restart the app.",
-    "ko": "앱을 재시작하세요."
+    "ko": "앱을 재시작하세요.",
+    "fr": "Veuillez redémarrer l'application."
   },
   "#Do not show this again.": {
     "en": "Do not show this again.",
-    "ko": "다시 보지 않기"
+    "ko": "다시 보지 않기",
+    "fr": "Ne plus afficher."
   },
   "#Do not show this again for {blockExpiration} days.": {
     "en": "Do not show this again for {blockExpiration} days.",
-    "ko": "{blockExpiration}일 동안 다시 보지 않기"
+    "ko": "{blockExpiration}일 동안 다시 보지 않기",
+    "fr": "Ne plus afficher pendant {blockExpiration} jours."
   },
   "#{appName} has crashed.": {
     "en": "{appName} has crashed.",
-    "ko": "{appName}이(가) 충돌하였습니다."
+    "ko": "{appName}이(가) 충돌하였습니다.",
+    "fr": "{appName} a planté."
   },
   "#{appName} has crashed due to an unexpected error.\nIf you see this message, please attach the following log file and report it to us.\n\nFile: {fileName}": {
     "en": "{appName} has crashed due to an unexpected error.\nIf you see this message, please attach the following log file and report it to us.\n\nFile: {fileName}",
-    "ko": "예기치 못한 오류로 인해 {appName}이(가) 강제 종료되었습니다.\n이 메시지를 보게 된다면 아래 로그 파일을 첨부하여 오류를 신고해 주세요.\n\n파일: {fileName}"
+    "ko": "예기치 못한 오류로 인해 {appName}이(가) 강제 종료되었습니다.\n이 메시지를 보게 된다면 아래 로그 파일을 첨부하여 오류를 신고해 주세요.\n\n파일: {fileName}",
+    "fr": "{appName} a planté en raison d'une erreur inattendue.\nSi vous voyez ce message, veuillez joindre le fichier journal suivant et nous le signaler.\n\nFichier : {fileName}"
   },
   "#There are one or more downloads in progress.\nAre you sure you want to stop/cancel them all?": {
     "en": "There are one or more downloads in progress.\nAre you sure you want to stop/cancel them all?",
-    "ko": "하나 이상의 진행 중인 다운로드가 있습니다.\n모두 중지/취소하시겠습니까?"
+    "ko": "하나 이상의 진행 중인 다운로드가 있습니다.\n모두 중지/취소하시겠습니까?",
+    "fr": "Il y a un ou plusieurs téléchargements en cours.\nÊtes-vous sûr de vouloir tous les arrêter/annuler ?"
   },
   "#Shutting down all downloads": {
     "en": "Shutting down all downloads",
-    "ko": "모든 다운로드를 중지하는 중"
+    "ko": "모든 다운로드를 중지하는 중",
+    "fr": "Arrêt de tous les téléchargements"
   },
   "#{appName} will shut down soon.": {
     "en": "{appName} will shut down soon.",
-    "ko": "{appName}이(가) 곧 종료됩니다."
+    "ko": "{appName}이(가) 곧 종료됩니다.",
+    "fr": "{appName} va bientôt s'arrêter."
   },
   "#System will shut down soon.": {
     "en": "System will shut down soon.",
-    "ko": "시스템이 곧 종료됩니다"
+    "ko": "시스템이 곧 종료됩니다",
+    "fr": "Le système va bientôt s'arrêter."
   },
   "#Shutdown by {appName}'s scheduled task.": {
     "en": "Shutdown by {appName}'s scheduled task.",
-    "ko": "{appName}의 예약된 다운로드 완료 작업에 의해 시스템이 종료됩니다."
+    "ko": "{appName}의 예약된 다운로드 완료 작업에 의해 시스템이 종료됩니다.",
+    "fr": "Arrêt par la tâche planifiée de {appName}."
   },
   "#Minimized to system tray": {
     "en": "Minimized to system tray",
-    "ko": "시스템 트레이에 최소화됨"
+    "ko": "시스템 트레이에 최소화됨",
+    "fr": "Réduit dans la barre d'état système"
   },
   "#{appName} is running in the background.": {
     "en": "{appName} is running in the background.",
-    "ko": "{appName}이(가) 백그라운드에서 실행 중입니다."
+    "ko": "{appName}이(가) 백그라운드에서 실행 중입니다.",
+    "fr": "{appName} s'exécute en arrière-plan."
   },
   "#Checking channel info": {
     "en": "Checking channel info",
-    "ko": "채널 정보 확인 중"
+    "ko": "채널 정보 확인 중",
+    "fr": "Vérification des infos de la chaîne"
   },
   "#Channel not found.": {
     "en": "Channel not found.",
-    "ko": "해당 채널을 찾을 수 없습니다."
+    "ko": "해당 채널을 찾을 수 없습니다.",
+    "fr": "Chaîne introuvable."
   },
   "#Checking video info": {
     "en": "Checking video info",
-    "ko": "비디오 정보 확인 중"
+    "ko": "비디오 정보 확인 중",
+    "fr": "Vérification des infos de la vidéo"
   },
   "#Video not found.": {
     "en": "Video not found.",
-    "ko": "해당 비디오를 찾을 수 없습니다."
+    "ko": "해당 비디오를 찾을 수 없습니다.",
+    "fr": "Vidéo introuvable."
   },
   "#Checking clip info": {
     "en": "Checking clip info",
-    "ko": "클립 정보 확인 중"
+    "ko": "클립 정보 확인 중",
+    "fr": "Vérification des infos du clip"
   },
   "#Clip not found.": {
     "en": "Clip not found.",
-    "ko": "해당 클립을 찾을 수 없습니다."
+    "ko": "해당 클립을 찾을 수 없습니다.",
+    "fr": "Clip introuvable."
   },
   "#Checking URL": {
     "en": "Checking URL",
-    "ko": "URL 정보 확인 중"
+    "ko": "URL 정보 확인 중",
+    "fr": "Vérification de l'URL"
   },
   "#This URL is invalid.": {
     "en": "This URL is invalid.",
-    "ko": "URL이 유효하지 않습니다."
+    "ko": "URL이 유효하지 않습니다.",
+    "fr": "Cette URL est invalide."
   },
   "#Searching": {
     "en": "Searching",
-    "ko": "검색 중"
+    "ko": "검색 중",
+    "fr": "Recherche"
   },
   "#No Results Found.": {
     "en": "No Results Found.",
-    "ko": "검색 결과가 없습니다."
+    "ko": "검색 결과가 없습니다.",
+    "fr": "Aucun résultat trouvé."
   },
   "#Your downloads will be displayed here.": {
     "en": "Your downloads will be displayed here.",
-    "ko": "다운로드한 콘텐츠가 이곳에 표시됩니다."
+    "ko": "다운로드한 콘텐츠가 이곳에 표시됩니다.",
+    "fr": "Vos téléchargements s'afficheront ici."
   },
   "#There are no matches for this filter.": {
     "en": "There are no matches for this filter.",
-    "ko": "필터 조건에 일치하는 결과가 없습니다."
+    "ko": "필터 조건에 일치하는 결과가 없습니다.",
+    "fr": "Il n'y a aucune correspondance pour ce filtre."
   },
   "#When all downloads are complete, it will perform the selected action.\nA warning notification will be displayed for a period of time so that the operation can be canceled.\nWhen the time expires, the action will be performed.": {
     "en": "When all downloads are complete, it will perform the selected action.\nA warning notification will be displayed for a period of time so that the operation can be canceled.\nWhen the time expires, the action will be performed.",
-    "ko": "모든 다운로드가 끝나면 선택된 작업을 수행합니다.\n작업이 수행되기 전 일정 시간 동안 경고 알림이 표시되며 이때 작업을 취소할 수 있습니다.\n시간이 경과하면 작업이 수행됩니다."
+    "ko": "모든 다운로드가 끝나면 선택된 작업을 수행합니다.\n작업이 수행되기 전 일정 시간 동안 경고 알림이 표시되며 이때 작업을 취소할 수 있습니다.\n시간이 경과하면 작업이 수행됩니다.",
+    "fr": "Lorsque tous les téléchargements seront terminés, l'action sélectionnée sera effectuée.\nUne notification d'avertissement s'affichera pendant un certain temps afin que l'opération puisse être annulée.\nLorsque le délai expire, l'action sera effectuée."
   },
   "#Filename Template Variables": {
     "en": "Filename Template Variables",
-    "ko": "파일명 생성 규칙 변수"
+    "ko": "파일명 생성 규칙 변수",
+    "fr": "Variables du modèle de nom de fichier"
   },
   "#'displayname' if {nameType} Displayname is English, otherwise 'displayname(username)'": {
     "en": "'displayname' if {nameType} Displayname is English, otherwise 'displayname(username)'",
-    "ko": "{nameType} 사용자 닉네임이 영어라면 '닉네임', 그렇지 않으면 '닉네임(아이디)'"
+    "ko": "{nameType} 사용자 닉네임이 영어라면 '닉네임', 그렇지 않으면 '닉네임(아이디)'",
+    "fr": "'displayname' si le Nom d'affichage {nameType} est en anglais, sinon 'displayname(username)'"
   },
   "#This will reset all settings.\nProceed?": {
     "en": "This will reset all settings.\nProceed?",
-    "ko": "모든 데이터가 초기화됩니다.\n진행하시겠습니까?"
+    "ko": "모든 데이터가 초기화됩니다.\n진행하시겠습니까?",
+    "fr": "Cela réinitialisera tous les paramètres.\nContinuer ?"
   },
   "#Close the window by pressing [{key}].": {
     "en": "Close the window by pressing [{key}].",
-    "ko": "[{key}]키를 이용해 닫을 수 있습니다."
+    "ko": "[{key}]키를 이용해 닫을 수 있습니다.",
+    "fr": "Fermez la fenêtre en appuyant sur [{key}]."
   },
   "#Sign in and link the benefits of your Twitch account with {appName}.\n(Stream Ad-Free benefits, Subscriber-Only Stream access, Subscriber-Only Video access, Twitch Prime or Twitch Turbo benefits, etc.)": {
     "en": "Sign in and link the benefits of your Twitch account with {appName}.\n(Stream Ad-Free benefits, Subscriber-Only Stream access, Subscriber-Only Video access, Twitch Prime or Twitch Turbo benefits, etc.)",
-    "ko": "로그인하여 Twitch 계정의 혜택을 {appName} 앱과 연동하세요.\n(생방송 광고 제거, 구독자 전용 생방송 다운로드, 구독자 전용 비디오 다운로드, Twitch Prime 또는 Twitch Turbo의 혜택 등)"
+    "ko": "로그인하여 Twitch 계정의 혜택을 {appName} 앱과 연동하세요.\n(생방송 광고 제거, 구독자 전용 생방송 다운로드, 구독자 전용 비디오 다운로드, Twitch Prime 또는 Twitch Turbo의 혜택 등)",
+    "fr": "Connectez-vous et liez les avantages de votre compte Twitch avec {appName}.\n(Avantages sans publicité, accès aux streams réservés aux abonnés, accès aux vidéos réservées aux abonnés, avantages Twitch Prime ou Twitch Turbo, etc.)"
   },
   "#Are you sure you want to cancel the sign-in operation in progress?": {
     "en": "Are you sure you want to cancel the sign-in operation in progress?",
-    "ko": "진행 중인 로그인 작업을 취소하시겠습니까?"
+    "ko": "진행 중인 로그인 작업을 취소하시겠습니까?",
+    "fr": "Êtes-vous sûr de vouloir annuler l'opération de connexion en cours ?"
   },
   "#Are you sure you want to sign out?": {
     "en": "Are you sure you want to sign out?",
-    "ko": "정말 로그아웃하시겠습니까?"
+    "ko": "정말 로그아웃하시겠습니까?",
+    "fr": "Êtes-vous sûr de vouloir vous déconnecter ?"
   },
   "#You left the sign-in page.": {
     "en": "You left the sign-in page.",
-    "ko": "로그인 페이지를 벗어났습니다."
+    "ko": "로그인 페이지를 벗어났습니다.",
+    "fr": "Vous avez quitté la page de connexion."
   },
   "#Return to sign-in page": {
     "en": "Return to sign-in page",
-    "ko": "로그인 페이지로 돌아가기"
+    "ko": "로그인 페이지로 돌아가기",
+    "fr": "Retourner à la page de connexion"
   },
   "#Please follow the sign-in procedure.": {
     "en": "Please follow the sign-in procedure.",
-    "ko": "로그인 절차를 따라주세요."
+    "ko": "로그인 절차를 따라주세요.",
+    "fr": "Veuillez suivre la procédure de connexion."
   },
   "#{browserName} has been launched. Please proceed with the sign-in process.": {
     "en": "{browserName} has been launched. Please proceed with the sign-in process.",
-    "ko": "{browserName}이(가) 실행되었습니다. 로그인 절차를 진행해 주세요."
+    "ko": "{browserName}이(가) 실행되었습니다. 로그인 절차를 진행해 주세요.",
+    "fr": "{browserName} a été lancé. Veuillez procéder à la connexion."
   },
   "#An unexpected error occurred while launching {browserName}. Please ensure that the latest version of {browserName} is properly installed.": {
     "en": "An unexpected error occurred while launching {browserName}. Please ensure that the latest version of {browserName} is properly installed.",
-    "ko": "{browserName}을(를) 실행하는 도중 알 수 없는 오류가 발생하였습니다. 최신 버전의 {browserName}이(가) 올바르게 설치되어 있는지 확인해 주세요."
+    "ko": "{browserName}을(를) 실행하는 도중 알 수 없는 오류가 발생하였습니다. 최신 버전의 {browserName}이(가) 올바르게 설치되어 있는지 확인해 주세요.",
+    "fr": "Une erreur inattendue s'est produite lors du lancement de {browserName}. Veuillez vous assurer que la dernière version de {browserName} est correctement installée."
   },
   "#The Twitch account saved in your {browserName} browser will be detected and linked.\nSince {appName} shares the same account information as your browser, signing out of your Twitch account in the browser will also sign you out of {appName}.\n\n\nBefore proceeding, please make sure that {browserName} is installed and that you are signed in to Twitch.\n\nAlso, please close all {browserName} windows and terminate any running {browserName} processes.": {
     "en": "The Twitch account saved in your {browserName} browser will be detected and linked.\nSince {appName} shares the same account information as your browser, signing out of your Twitch account in the browser will also sign you out of {appName}.\n\n\nBefore proceeding, please make sure that {browserName} is installed and that you are signed in to Twitch.\n\nAlso, please close all {browserName} windows and terminate any running {browserName} processes.",
-    "ko": "사용자의 {browserName} 브라우저에 저장된 Twitch 계정을 감지하여 연동합니다.\n{appName}이(가) 브라우저와 동일한 계정 정보를 가지게 되며 브라우저에서 Twitch 계정 로그아웃을 수행할 경우, {appName} 앱도 함께 로그아웃됩니다.\n\n\n이 작업을 수행하기 전, {browserName}이(가) 설치되어 있고, Twitch에 로그인되어 있음을 확인하세요.\n\n또한, 모든 {browserName} 창을 닫고 {browserName} 프로세스를 종료하세요."
+    "ko": "사용자의 {browserName} 브라우저에 저장된 Twitch 계정을 감지하여 연동합니다.\n{appName}이(가) 브라우저와 동일한 계정 정보를 가지게 되며 브라우저에서 Twitch 계정 로그아웃을 수행할 경우, {appName} 앱도 함께 로그아웃됩니다.\n\n\n이 작업을 수행하기 전, {browserName}이(가) 설치되어 있고, Twitch에 로그인되어 있음을 확인하세요.\n\n또한, 모든 {browserName} 창을 닫고 {browserName} 프로세스를 종료하세요.",
+    "fr": "Le compte Twitch enregistré dans votre navigateur {browserName} sera détecté et lié.\nComme {appName} partage les mêmes informations de compte que votre navigateur, vous déconnecter de votre compte Twitch dans le navigateur vous déconnectera également de {appName}.\n\n\nAvant de continuer, veuillez vous assurer que {browserName} est installé et que vous êtes connecté à Twitch.\n\nFermez également toutes les fenêtres {browserName} et terminez tous les processus {browserName} en cours."
   },
   "#Importing Twitch account from {browserName}": {
     "en": "Importing Twitch account from {browserName}",
-    "ko": "{browserName}에서 Twitch 계정을 불러오는 중"
+    "ko": "{browserName}에서 Twitch 계정을 불러오는 중",
+    "fr": "Importation du compte Twitch depuis {browserName}"
   },
   "#Unable to detect {browserName}.\nPlease make sure {browserName} is properly installed.": {
     "en": "Unable to detect {browserName}.\nPlease make sure {browserName} is properly installed.",
-    "ko": "{browserName}을(를) 감지할 수 없습니다.\n{browserName}이(가) 올바르게 설치되어 있는지 확인하세요."
+    "ko": "{browserName}을(를) 감지할 수 없습니다.\n{browserName}이(가) 올바르게 설치되어 있는지 확인하세요.",
+    "fr": "Impossible de détecter {browserName}.\nVeuillez vous assurer que {browserName} est correctement installé."
   },
   "#Failed to connect to the {browserName}.\n\nIf {browserName} is currently running, please close all windows and try again.\n\nIf it's not running, the issue may be caused by {browserName}'s security settings blocking external connections.\nConsider trying a different browser.": {
     "en": "Failed to connect to the {browserName}.\n\nIf {browserName} is currently running, please close all windows and try again.\n\nIf it's not running, the issue may be caused by {browserName}'s security settings blocking external connections.\nConsider trying a different browser.",
-    "ko": "{browserName}에 연결하지 못했습니다.\n\n{browserName}이 현재 실행 중이라면, 모든 창을 닫은 후 다시 시도하세요.\n\n실행 중이 아니라면, {browserName}의 보안 설정으로 인해 외부 연결이 차단되었을 수 있습니다.\n다른 브라우저를 사용해 보세요."
+    "ko": "{browserName}에 연결하지 못했습니다.\n\n{browserName}이 현재 실행 중이라면, 모든 창을 닫은 후 다시 시도하세요.\n\n실행 중이 아니라면, {browserName}의 보안 설정으로 인해 외부 연결이 차단되었을 수 있습니다.\n다른 브라우저를 사용해 보세요.",
+    "fr": "Échec de la connexion à {browserName}.\n\nSi {browserName} est en cours d'exécution, veuillez fermer toutes les fenêtres et réessayer.\n\nS'il ne fonctionne pas, le problème peut être causé par les paramètres de sécurité de {browserName} qui bloquent les connexions externes.\nEssayez un autre navigateur."
   },
   "#An unexpected error occurred. Please ensure that the latest version of {browserName} is properly installed and all {browserName} windows are closed.": {
     "en": "An unexpected error occurred. Please ensure that the latest version of {browserName} is properly installed and all {browserName} windows are closed.",
-    "ko": "알 수 없는 오류가 발생했습니다. 최신 버전의 {browserName}이(가) 올바르게 설치되어 있고, 모든 {browserName} 창이 닫혀 있는지 확인해 주세요."
+    "ko": "알 수 없는 오류가 발생했습니다. 최신 버전의 {browserName}이(가) 올바르게 설치되어 있고, 모든 {browserName} 창이 닫혀 있는지 확인해 주세요.",
+    "fr": "Une erreur inattendue s'est produite. Veuillez vous assurer que la dernière version de {browserName} est correctement installée et que toutes les fenêtres {browserName} sont fermées."
   },
   "#Unable to find a Twitch account. Please make sure that {browserName} is signed in to Twitch.": {
     "en": "Unable to find a Twitch account. Please make sure that {browserName} is signed in to Twitch.",
-    "ko": "Twitch 계정을 찾을 수 없습니다.\n{browserName}이(가) Twitch에 로그인되어 있음을 확인하세요."
+    "ko": "Twitch 계정을 찾을 수 없습니다.\n{browserName}이(가) Twitch에 로그인되어 있음을 확인하세요.",
+    "fr": "Impossible de trouver un compte Twitch. Veuillez vous assurer que {browserName} est connecté à Twitch."
   },
   "#Twitch Stream / Video / Clip Downloader": {
     "en": "Twitch Stream / Video / Clip Downloader",
-    "ko": "트위치 생방송 / 비디오 / 클립 다운로더"
+    "ko": "트위치 생방송 / 비디오 / 클립 다운로더",
+    "fr": "Téléchargeur de Stream / Vidéo / Clip Twitch"
   },
   "#This is the latest version.": {
     "en": "This is the latest version.",
-    "ko": "최신 버전입니다."
+    "ko": "최신 버전입니다.",
+    "fr": "C'est la dernière version."
   },
   "#{appName} {version} has been released!": {
     "en": "{appName} {version} has been released!",
-    "ko": "{appName} {version}이(가) 출시되었습니다!"
+    "ko": "{appName} {version}이(가) 출시되었습니다!",
+    "fr": "{appName} {version} est sortie !"
   },
   "#If you like the program, please become a patron of {appName}!": {
     "en": "If you like the program, please become a patron of {appName}!",
-    "ko": "프로그램이 마음에 드신다면, 후원을 통해 {appName} 개발에 기여해 주세요!"
+    "ko": "프로그램이 마음에 드신다면, 후원을 통해 {appName} 개발에 기여해 주세요!",
+    "fr": "Si vous aimez le programme, devenez un mécène de {appName} !"
   },
   "#I accept the terms of service.": {
     "en": "I accept the terms of service.",
-    "ko": "이용약관에 동의합니다."
+    "ko": "이용약관에 동의합니다.",
+    "fr": "J'accepte les conditions d'utilisation."
   },
   "#Agreed at {time}": {
     "en": "Agreed at {time}",
-    "ko": "{time}에 동의함"
+    "ko": "{time}에 동의함",
+    "fr": "Accepté à {time}"
   },
   "#Search by Channel ID": {
     "en": "Search by Channel ID",
-    "ko": "채널 아이디를 입력하세요."
+    "ko": "채널 아이디를 입력하세요.",
+    "fr": "Rechercher par ID de chaîne"
   },
   "#Search by Video / Clip ID": {
     "en": "Search by Video / Clip ID",
-    "ko": "비디오 / 클립 아이디를 입력하세요."
+    "ko": "비디오 / 클립 아이디를 입력하세요.",
+    "fr": "Rechercher par ID de Vidéo / Clip"
   },
   "#Search by Channel / Video / Clip URL": {
     "en": "Search by Channel / Video / Clip URL",
-    "ko": "채널 / 비디오 / 클립 URL을 입력하세요."
+    "ko": "채널 / 비디오 / 클립 URL을 입력하세요.",
+    "fr": "Rechercher par URL de Chaîne / Vidéo / Clip"
   },
   "#Enter your search term.": {
     "en": "Enter your search term.",
-    "ko": "검색어를 입력하세요."
+    "ko": "검색어를 입력하세요.",
+    "fr": "Entrez votre terme de recherche."
   },
   "#A network error occurred while loading your account data.": {
     "en": "A network error occurred while loading your account data.",
-    "ko": "계정 정보를 불러오는 중 네트워크 오류가 발생하였습니다."
+    "ko": "계정 정보를 불러오는 중 네트워크 오류가 발생하였습니다.",
+    "fr": "Une erreur réseau s'est produite lors du chargement des données de votre compte."
   },
   "#An authentication error has occurred.\nIf the error persists, try signing in again.": {
     "en": "An authentication error has occurred.\nIf the error persists, try signing in again.",
-    "ko": "사용자 계정 인증 오류가 발생하였습니다.\n해당 오류가 지속된다면 다시 로그인하시기 바랍니다."
+    "ko": "사용자 계정 인증 오류가 발생하였습니다.\n해당 오류가 지속된다면 다시 로그인하시기 바랍니다.",
+    "fr": "Une erreur d'authentification s'est produite.\nSi l'erreur persiste, essayez de vous reconnecter."
   },
   "#Your session has expired.\nPlease sign in again.": {
     "en": "Your session has expired.\nPlease sign in again.",
-    "ko": "사용자 계정의 세션이 만료되었습니다.\n다시 로그인해 주세요."
+    "ko": "사용자 계정의 세션이 만료되었습니다.\n다시 로그인해 주세요.",
+    "fr": "Votre session a expiré.\nVeuillez vous reconnecter."
   },
   "#A network error has occurred.": {
     "en": "A network error has occurred.",
-    "ko": "네트워크 오류가 발생하였습니다."
+    "ko": "네트워크 오류가 발생하였습니다.",
+    "fr": "Une erreur réseau s'est produite."
   },
   "#Video not found. Deleted or temporary error.": {
     "en": "Video not found. Deleted or temporary error.",
-    "ko": "비디오 정보를 찾을 수 없습니다. 삭제되었거나 일시적인 오류입니다."
+    "ko": "비디오 정보를 찾을 수 없습니다. 삭제되었거나 일시적인 오류입니다.",
+    "fr": "Vidéo introuvable. Supprimée ou erreur temporaire."
   },
   "#Unable to find subscription in your account.\nSubscribe to this streamer or sign in with another account.": {
     "en": "Unable to find subscription in your account.\nSubscribe to this streamer or sign in with another account.",
-    "ko": "로그인한 계정에서 구독 정보를 찾을 수 없습니다.\n해당 스트리머를 구독하거나 다른 계정을 사용하여 로그인하세요."
+    "ko": "로그인한 계정에서 구독 정보를 찾을 수 없습니다.\n해당 스트리머를 구독하거나 다른 계정을 사용하여 로그인하세요.",
+    "fr": "Impossible de trouver un abonnement dans votre compte.\nAbonnez-vous à ce streamer ou connectez-vous avec un autre compte."
   },
   "#You need to sign in to download subscriber-only videos.": {
     "en": "You need to sign in to download subscriber-only videos.",
-    "ko": "구독자 전용 비디오는 로그인을 통해 다운로드할 수 있습니다."
+    "ko": "구독자 전용 비디오는 로그인을 통해 다운로드할 수 있습니다.",
+    "fr": "Vous devez vous connecter pour télécharger des vidéos réservées aux abonnés."
   },
   "#This video is for subscribers only.\n{advice}": {
     "en": "This video is for subscribers only.\n{advice}",
-    "ko": "구독자 전용 비디오입니다.\n{advice}"
+    "ko": "구독자 전용 비디오입니다.\n{advice}",
+    "fr": "Cette vidéo est réservée aux abonnés.\n{advice}"
   },
   "#Clip not found. Deleted or temporary error.": {
     "en": "Clip not found. Deleted or temporary error.",
-    "ko": "클립 정보를 찾을 수 없습니다. 삭제되었거나 일시적인 오류입니다."
+    "ko": "클립 정보를 찾을 수 없습니다. 삭제되었거나 일시적인 오류입니다.",
+    "fr": "Clip introuvable. Supprimé ou erreur temporaire."
   },
   "#{channel}'s channel": {
     "en": "{channel}'s channel",
-    "ko": "{channel}님의 채널"
+    "ko": "{channel}님의 채널",
+    "fr": "Chaîne de {channel}"
   },
   "#{channel}'s {searchType}": {
     "en": "{channel}'s {searchType}",
-    "ko": "{channel}님의 {searchType}"
+    "ko": "{channel}님의 {searchType}",
+    "fr": "{searchType} de {channel}"
   },
   "#{followers} followers": {
     "en": "{followers} followers",
-    "ko": "팔로워: {followers}명"
+    "ko": "팔로워: {followers}명",
+    "fr": "{followers} abonnés"
   },
   "#A temporary error has occurred.\nPlease try again later.": {
     "en": "A temporary error has occurred.\nPlease try again later.",
-    "ko": "일시적인 오류가 발생하였습니다.\n잠시 후 다시 시도하세요."
+    "ko": "일시적인 오류가 발생하였습니다.\n잠시 후 다시 시도하세요.",
+    "fr": "Une erreur temporaire s'est produite.\nVeuillez réessayer plus tard."
   },
   "#Channel not found. Deleted or temporary error.": {
     "en": "Channel not found. Deleted or temporary error.",
-    "ko": "채널 정보를 찾을 수 없습니다. 삭제되었거나 일시적인 오류입니다."
+    "ko": "채널 정보를 찾을 수 없습니다. 삭제되었거나 일시적인 오류입니다.",
+    "fr": "Chaîne introuvable. Supprimée ou erreur temporaire."
   },
   "#Stream not found. Stream ended or temporary error.": {
     "en": "Stream not found. Stream ended or temporary error.",
-    "ko": "생방송 정보를 찾을 수 없습니다. 생방송이 종료되었거나 일시적인 오류입니다."
+    "ko": "생방송 정보를 찾을 수 없습니다. 생방송이 종료되었거나 일시적인 오류입니다.",
+    "fr": "Stream introuvable. Stream terminé ou erreur temporaire."
   },
   "#Your account does not have a subscription to this channel.": {
     "en": "Your account does not have a subscription to this channel.",
-    "ko": "로그인한 계정에 해당 채널에 대한 구독이 없습니다."
+    "ko": "로그인한 계정에 해당 채널에 대한 구독이 없습니다.",
+    "fr": "Votre compte n'a pas d'abonnement à cette chaîne."
   },
   "#You are not currently signed in.": {
     "en": "You are not currently signed in.",
-    "ko": "현재 로그인하지 않았습니다."
+    "ko": "현재 로그인하지 않았습니다.",
+    "fr": "Vous n'êtes pas actuellement connecté."
   },
   "#This stream may contain ads.\nIf commercials are broadcast, the portion of the stream during the commercials may not be available for download, and it may appear as though the stream is interrupted.\nTo prevent ads, you need to sign in with an account that has ad-free benefits, such as Twitch Turbo, or an account that subscribes to the channel.": {
     "en": "This stream may contain ads.\nIf commercials are broadcast, the portion of the stream during the commercials may not be available for download, and it may appear as though the stream is interrupted.\nTo prevent ads, you need to sign in with an account that has ad-free benefits, such as Twitch Turbo, or an account that subscribes to the channel.",
-    "ko": "이 생방송에서 광고가 송출될 수 있습니다.\n광고가 송출되면 그 시간 동안의 생방송은 다운로드할 수 없으며, 생방송이 중간에 끊어진 것처럼 보일 수 있습니다.\n광고 송출을 방지하려면 Twitch Turbo, 채널을 구독한 계정 등의 광고 방지 혜택이 있는 계정으로의 로그인이 필요합니다."
+    "ko": "이 생방송에서 광고가 송출될 수 있습니다.\n광고가 송출되면 그 시간 동안의 생방송은 다운로드할 수 없으며, 생방송이 중간에 끊어진 것처럼 보일 수 있습니다.\n광고 송출을 방지하려면 Twitch Turbo, 채널을 구독한 계정 등의 광고 방지 혜택이 있는 계정으로의 로그인이 필요합니다.",
+    "fr": "Ce stream peut contenir des publicités.\nSi des publicités sont diffusées, la partie du stream pendant les publicités peut ne pas être disponible au téléchargement, et il peut sembler que le stream soit interrompu.\nPour éviter les publicités, vous devez vous connecter avec un compte bénéficiant d'avantages sans publicité, comme Twitch Turbo, ou un compte abonné à la chaîne."
   },
   "#Would you like to proceed?": {
     "en": "Would you like to proceed?",
-    "ko": "이대로 진행하시겠습니까?"
+    "ko": "이대로 진행하시겠습니까?",
+    "fr": "Voulez-vous continuer ?"
   },
   "#Authentication of your account has been denied.": {
     "en": "Authentication of your account has been denied.",
-    "ko": "로그인한 계정의 인증이 거부되었습니다."
+    "ko": "로그인한 계정의 인증이 거부되었습니다.",
+    "fr": "L'authentification de votre compte a été refusée."
   },
   "#Authentication denied.": {
     "en": "Authentication denied.",
-    "ko": "인증이 거부되었습니다."
+    "ko": "인증이 거부되었습니다.",
+    "fr": "Authentification refusée."
   },
   "#This content is not available in your region.": {
     "en": "This content is not available in your region.",
-    "ko": "해당 지역에서 시청할 수 없는 콘텐츠입니다."
+    "ko": "해당 지역에서 시청할 수 없는 콘텐츠입니다.",
+    "fr": "Ce contenu n'est pas disponible dans votre région."
   },
   "#This is just a preview.\nSome values may be different from the actual ones. ({properties}, etc.)": {
     "en": "This is just a preview.\nSome values may be different from the actual ones. ({properties}, etc.)",
-    "ko": "임시 미리보기입니다.\n일부 값이 실제와 다를 수 있습니다. ({properties} 등)"
+    "ko": "임시 미리보기입니다.\n일부 값이 실제와 다를 수 있습니다. ({properties} 등)",
+    "fr": "Ceci n'est qu'un aperçu.\nCertaines valeurs peuvent être différentes des valeurs réelles. ({properties}, etc.)"
   },
   "#Please note that certain video qualities (such as Source) may not be available immediately after a live broadcast begins.\nIf this option is disabled, it will automatically select and begin downloading the closest available quality.\nIf this option is enabled, it will wait until the selected quality is available.\n(Please be aware that if the selected quality continues to be unavailable, the download will not proceed.)": {
     "en": "Please note that certain video qualities (such as Source) may not be available immediately after a live broadcast begins.\nIf this option is disabled, it will automatically select and begin downloading the closest available quality.\nIf this option is enabled, it will wait until the selected quality is available.\n(Please be aware that if the selected quality continues to be unavailable, the download will not proceed.)",
-    "ko": "생방송이 시작된 후 일정 시간 동안 일부 화질(원본 화질 등)이 제공되지 않을 수 있습니다.\n이 옵션이 해제된 경우 자동으로 가장 비슷한 다른 화질을 선택하여 다운로드를 시작합니다.\n이 옵션이 활성화된 경우 선택한 화질이 제공될 때까지 대기합니다.\n(선택한 화질이 계속 제공되지 않는다면 다운로드가 진행되지 않습니다.)"
+    "ko": "생방송이 시작된 후 일정 시간 동안 일부 화질(원본 화질 등)이 제공되지 않을 수 있습니다.\n이 옵션이 해제된 경우 자동으로 가장 비슷한 다른 화질을 선택하여 다운로드를 시작합니다.\n이 옵션이 활성화된 경우 선택한 화질이 제공될 때까지 대기합니다.\n(선택한 화질이 계속 제공되지 않는다면 다운로드가 진행되지 않습니다.)",
+    "fr": "Veuillez noter que certaines qualités vidéo (comme Source) peuvent ne pas être disponibles immédiatement après le début d'une diffusion en direct.\nSi cette option est désactivée, la qualité disponible la plus proche sera automatiquement sélectionnée et le téléchargement commencera.\nSi cette option est activée, il attendra que la qualité sélectionnée soit disponible.\n(Veuillez noter que si la qualité sélectionnée reste indisponible, le téléchargement ne se poursuivra pas.)"
   },
   "#Unable to start scheduled download for channel {channel}.": {
     "en": "Unable to start scheduled download for channel {channel}.",
-    "ko": "{channel} 채널의 예약 다운로드를 시작할 수 없습니다."
+    "ko": "{channel} 채널의 예약 다운로드를 시작할 수 없습니다.",
+    "fr": "Impossible de démarrer le téléchargement planifié pour la chaîne {channel}."
   },
   "#Some fields are empty.": {
     "en": "Some fields are empty.",
-    "ko": "일부 필드가 비어있습니다."
+    "ko": "일부 필드가 비어있습니다.",
+    "fr": "Certains champs sont vides."
   },
   "#Channel ID is invalid.": {
     "en": "Channel ID is invalid.",
-    "ko": "채널 아이디가 유효하지 않습니다."
+    "ko": "채널 아이디가 유효하지 않습니다.",
+    "fr": "L'ID de la chaîne est invalide."
   },
   "#The preferred resolution was not found.\nYou have disabled the download until a matching resolution is found.": {
     "en": "The preferred resolution was not found.\nYou have disabled the download until a matching resolution is found.",
-    "ko": "선호하는 해상도를 찾을 수 없습니다.\n일치하는 해상도를 찾을 때까지 다운로드를 하지 않도록 설정하셨습니다."
+    "ko": "선호하는 해상도를 찾을 수 없습니다.\n일치하는 해상도를 찾을 때까지 다운로드를 하지 않도록 설정하셨습니다.",
+    "fr": "La résolution préférée n'a pas été trouvée.\nVous avez désactivé le téléchargement jusqu'à ce qu'une résolution correspondante soit trouvée."
   },
   "#Unable to start a new download.\nThis feature has been disabled.": {
     "en": "Unable to start a new download.\nThis feature has been disabled.",
-    "ko": "새 다운로드를 시작할 수 없습니다.\n기능이 비활성화되었습니다."
+    "ko": "새 다운로드를 시작할 수 없습니다.\n기능이 비활성화되었습니다.",
+    "fr": "Impossible de démarrer un nouveau téléchargement.\nCette fonctionnalité a été désactivée."
   },
   "#Changes will take effect from the next download.": {
     "en": "Changes will take effect from the next download.",
-    "ko": "변경사항은 다음 다운로드부터 적용됩니다."
+    "ko": "변경사항은 다음 다운로드부터 적용됩니다.",
+    "fr": "Les modifications prendront effet à partir du prochain téléchargement."
   },
   "#Download {type}": {
     "en": "Download {type}",
-    "ko": "{type} 다운로드"
+    "ko": "{type} 다운로드",
+    "fr": "Télécharger {type}"
   },
   "#The filename template contains a 'resolution' variable. Do you want to create a new filename based on the changed resolution?": {
     "en": "The filename template contains a 'resolution' variable. Do you want to create a new filename based on the changed resolution?",
-    "ko": "파일명 생성 규칙에 '해상도' 변수가 포함되어 있습니다. 변경된 해상도를 바탕으로 파일명을 새롭게 생성하시겠습니까?"
+    "ko": "파일명 생성 규칙에 '해상도' 변수가 포함되어 있습니다. 변경된 해상도를 바탕으로 파일명을 새롭게 생성하시겠습니까?",
+    "fr": "Le modèle de nom de fichier contient une variable 'résolution'. Voulez-vous créer un nouveau nom de fichier basé sur la résolution modifiée ?"
   },
   "#Total Length: {duration}": {
     "en": "Total Length: {duration}",
-    "ko": "총 길이: {duration}"
+    "ko": "총 길이: {duration}",
+    "fr": "Durée totale : {duration}"
   },
   "#Update track mode is currently enabled.\nSetting the end of the crop range will not track updates.\nProceed?": {
     "en": "Update track mode is currently enabled.\nSetting the end of the crop range will not track updates.\nProceed?",
-    "ko": "현재 업데이트 추적 모드가 활성화되어있습니다.\n자르기 범위의 끝부분을 설정하면 업데이트 추적을 하지 않습니다.\n진행하시겠습니까?"
+    "ko": "현재 업데이트 추적 모드가 활성화되어있습니다.\n자르기 범위의 끝부분을 설정하면 업데이트 추적을 하지 않습니다.\n진행하시겠습니까?",
+    "fr": "Le mode suivi de mise à jour est actuellement activé.\nDéfinir la fin de la plage de rognage ne suivra pas les mises à jour.\nContinuer ?"
   },
   "#For precise range handling, it is necessary to re-encode the video from the beginning, a process which can be very time-consuming.\nTo speed up this process, {appName} performs the cutting operation using computationally inexpensive points near the specified range, without re-encoding.\nThere is no loss during this process, but a few additional seconds may be saved before and after the specified range.\nIf precise range handling is required, please process the downloaded video using a professional video editor.": {
     "en": "For precise range handling, it is necessary to re-encode the video from the beginning, a process which can be very time-consuming.\nTo speed up this process, {appName} performs the cutting operation using computationally inexpensive points near the specified range, without re-encoding.\nThere is no loss during this process, but a few additional seconds may be saved before and after the specified range.\nIf precise range handling is required, please process the downloaded video using a professional video editor.",
-    "ko": "정확한 범위 처리를 위해서는 비디오를 처음부터 다시 인코딩해야 하며 이 작업은 시간이 매우 오래 걸립니다.\n{appName}은(는) 빠른 처리를 위해 다시 인코딩하지 않고 지정된 범위에서 가까운 연산량이 적은 지점을 이용해 자르기를 수행합니다.\n이 과정에서 손실은 일어나지 않지만 지정된 범위에서 앞뒤로 몇 초 정도 추가로 저장될 수 있습니다.\n정확한 범위 처리가 필요하다면 다운로드한 비디오를 전문 비디오 편집기로 처리하세요."
+    "ko": "정확한 범위 처리를 위해서는 비디오를 처음부터 다시 인코딩해야 하며 이 작업은 시간이 매우 오래 걸립니다.\n{appName}은(는) 빠른 처리를 위해 다시 인코딩하지 않고 지정된 범위에서 가까운 연산량이 적은 지점을 이용해 자르기를 수행합니다.\n이 과정에서 손실은 일어나지 않지만 지정된 범위에서 앞뒤로 몇 초 정도 추가로 저장될 수 있습니다.\n정확한 범위 처리가 필요하다면 다운로드한 비디오를 전문 비디오 편집기로 처리하세요.",
+    "fr": "Pour une gestion précise de la plage, il est nécessaire de réencoder la vidéo depuis le début, un processus qui peut prendre beaucoup de temps.\nPour accélérer ce processus, {appName} effectue l'opération de découpe en utilisant des points peu coûteux en calcul près de la plage spécifiée, sans réencodage.\nIl n'y a aucune perte durant ce processus, mais quelques secondes supplémentaires peuvent être enregistrées avant et après la plage spécifiée.\nSi une gestion précise de la plage est requise, veuillez traiter la vidéo téléchargée à l'aide d'un éditeur vidéo professionnel."
   },
   "#The end of the crop range is currently set.\nEnabling update track mode will ignore the end of the crop range and continue downloading.\nProceed?": {
     "en": "The end of the crop range is currently set.\nEnabling update track mode will ignore the end of the crop range and continue downloading.\nProceed?",
-    "ko": "현재 자르기 범위의 끝부분이 설정되어 있습니다.\n업데이트 추적 모드를 활성화하면 자르기 범위의 끝부분을 무시하고 비디오를 끝까지 다운로드합니다.\n진행하시겠습니까?"
+    "ko": "현재 자르기 범위의 끝부분이 설정되어 있습니다.\n업데이트 추적 모드를 활성화하면 자르기 범위의 끝부분을 무시하고 비디오를 끝까지 다운로드합니다.\n진행하시겠습니까?",
+    "fr": "La fin de la plage de rognage est actuellement définie.\nActiver le mode suivi de mise à jour ignorera la fin de la plage de rognage et continuera le téléchargement.\nContinuer ?"
   },
   "#{fileFormat} file (*.{fileFormat})": {
     "en": "{fileFormat} file (*.{fileFormat})",
-    "ko": "{fileFormat} 파일 (*.{fileFormat})"
+    "ko": "{fileFormat} 파일 (*.{fileFormat})",
+    "fr": "Fichier {fileFormat} (*.{fileFormat})"
   },
   "#There is another download in progress with the same file name.": {
     "en": "There is another download in progress with the same file name.",
-    "ko": "이미 동일한 파일명으로 다른 다운로드가 진행 중입니다."
+    "ko": "이미 동일한 파일명으로 다른 다운로드가 진행 중입니다.",
+    "fr": "Il y a un autre téléchargement en cours avec le même nom de fichier."
   },
   "#A file with the same name already exists.\nOverwrite?": {
     "en": "A file with the same name already exists.\nOverwrite?",
-    "ko": "동일한 이름의 파일이 이미 존재합니다.\n덮어쓰시겠습니까?"
+    "ko": "동일한 이름의 파일이 이미 존재합니다.\n덮어쓰시겠습니까?",
+    "fr": "Un fichier portant le même nom existe déjà.\nÉcraser ?"
   },
   "#The target directory or filename is unavailable.": {
     "en": "The target directory or filename is unavailable.",
-    "ko": "대상 디렉토리 또는 파일명을 사용할 수 없습니다."
+    "ko": "대상 디렉토리 또는 파일명을 사용할 수 없습니다.",
+    "fr": "Le répertoire cible ou le nom de fichier est indisponible."
   },
   "#An error occurred while generating the file name.": {
     "en": "An error occurred while generating the file name.",
-    "ko": "파일명을 자동으로 생성할 수 없습니다."
+    "ko": "파일명을 자동으로 생성할 수 없습니다.",
+    "fr": "Une erreur s'est produite lors de la génération du nom de fichier."
   },
   "#Failed to unmute {fileCount} segments ({time})": {
     "en": "Failed to unmute {fileCount} segments ({time})",
-    "ko": "{fileCount}개 구간 음소거 해제 실패 ({time})"
+    "ko": "{fileCount}개 구간 음소거 해제 실패 ({time})",
+    "fr": "Échec de la réactivation du son de {fileCount} segments ({time})"
   },
   "#Skipped {fileCount} commercial segments ({time})": {
     "en": "Skipped {fileCount} commercial segments ({time})",
-    "ko": "{fileCount}개 광고 구간 건너뜀 ({time})"
+    "ko": "{fileCount}개 광고 구간 건너뜀 ({time})",
+    "fr": "{fileCount} segments publicitaires sautés ({time})"
   },
   "#Missing {fileCount} segments ({time})": {
     "en": "Missing {fileCount} segments ({time})",
-    "ko": "{fileCount}개 구간 누락 ({time})"
+    "ko": "{fileCount}개 구간 누락 ({time})",
+    "fr": "{fileCount} segments manquants ({time})"
   },
   "#[Original: {totalDuration} / Crop: {startTime}~{endTime}]": {
     "en": "[Original: {totalDuration} / Crop: {startTime}~{endTime}]",
-    "ko": "[원본: {totalDuration} / 자르기: {startTime}~{endTime}]"
+    "ko": "[원본: {totalDuration} / 자르기: {startTime}~{endTime}]",
+    "fr": "[Original : {totalDuration} / Rognage : {startTime}~{endTime}]"
   },
   "#You cannot perform this action now.": {
     "en": "You cannot perform this action now.",
-    "ko": "현재 이 작업을 수행할 수 없습니다."
+    "ko": "현재 이 작업을 수행할 수 없습니다.",
+    "fr": "Vous ne pouvez pas effectuer cette action maintenant."
   },
   "#Copied to clipboard.": {
     "en": "Copied to clipboard.",
-    "ko": "클립보드에 복사되었습니다."
+    "ko": "클립보드에 복사되었습니다.",
+    "fr": "Copié dans le presse-papiers."
   },
   "#Save completed.": {
     "en": "Save completed.",
-    "ko": "저장이 완료되었습니다."
+    "ko": "저장이 완료되었습니다.",
+    "fr": "Enregistrement terminé."
   },
   "#This disables all scheduled downloads and disconnects from the channel.\nProceed?": {
     "en": "This disables all scheduled downloads and disconnects from the channel.\nProceed?",
-    "ko": "모든 예약 다운로드가 비활성화되며 채널과의 연결이 끊어집니다.\n진행하시겠습니까?"
+    "ko": "모든 예약 다운로드가 비활성화되며 채널과의 연결이 끊어집니다.\n진행하시겠습니까?",
+    "fr": "Cela désactive tous les téléchargements planifiés et déconnecte de la chaîne.\nContinuer ?"
   },
   "#Are you sure you want to stop the download?": {
     "en": "Are you sure you want to stop the download?",
-    "ko": "다운로드를 중지하시겠습니까?"
+    "ko": "다운로드를 중지하시겠습니까?",
+    "fr": "Êtes-vous sûr de vouloir arrêter le téléchargement ?"
   },
   "#Are you sure you want to cancel the download?": {
     "en": "Are you sure you want to cancel the download?",
-    "ko": "다운로드를 취소하시겠습니까?"
+    "ko": "다운로드를 취소하시겠습니까?",
+    "fr": "Êtes-vous sûr de vouloir annuler le téléchargement ?"
   },
   "#An error occurred while downloading.": {
     "en": "An error occurred while downloading.",
-    "ko": "다운로드 도중 오류가 발생하였습니다."
+    "ko": "다운로드 도중 오류가 발생하였습니다.",
+    "fr": "Une erreur s'est produite lors du téléchargement."
   },
   "#Folder not found.\nIt has been moved, renamed or deleted.": {
     "en": "Folder not found.\nIt has been moved, renamed or deleted.",
-    "ko": "대상 폴더를 찾을 수 없습니다.\n이름이 변경되었거나 이동 또는 삭제되었습니다."
+    "ko": "대상 폴더를 찾을 수 없습니다.\n이름이 변경되었거나 이동 또는 삭제되었습니다.",
+    "fr": "Dossier introuvable.\nIl a été déplacé, renommé ou supprimé."
   },
   "#File not found.\nIt has been moved, renamed or deleted.": {
     "en": "File not found.\nIt has been moved, renamed or deleted.",
-    "ko": "대상 파일을 찾을 수 없습니다.\n이름이 변경되었거나 이동 또는 삭제되었습니다."
+    "ko": "대상 파일을 찾을 수 없습니다.\n이름이 변경되었거나 이동 또는 삭제되었습니다.",
+    "fr": "Fichier introuvable.\nIl a été déplacé, renommé ou supprimé."
   },
   "#A system error has occurred.\n\nPossible Causes\n\n* Too long or invalid filename or path\n* Out of storage capacity\n* Needs permission to perform this action\n\nIf the error persists, try Run as administrator.": {
     "en": "A system error has occurred.\n\nPossible Causes\n\n* Too long or invalid filename or path\n* Out of storage capacity\n* Needs permission to perform this action\n\nIf the error persists, try Run as administrator.",
-    "ko": "시스템 오류가 발생하였습니다.\n\n가능한 원인\n\n* 너무 길거나 유효하지 않은 파일명 또는 경로\n* 저장 용량 부족\n* 해당 작업을 수행하기 위한 권한 필요\n\n오류가 지속된다면 프로그램을 관리자 권한으로 실행하세요."
+    "ko": "시스템 오류가 발생하였습니다.\n\n가능한 원인\n\n* 너무 길거나 유효하지 않은 파일명 또는 경로\n* 저장 용량 부족\n* 해당 작업을 수행하기 위한 권한 필요\n\n오류가 지속된다면 프로그램을 관리자 권한으로 실행하세요.",
+    "fr": "Une erreur système s'est produite.\n\nCauses possibles\n\n* Nom de fichier ou chemin trop long ou invalide\n* Capacité de stockage insuffisante\n* Permission requise pour effectuer cette action\n\nSi l'erreur persiste, essayez d'exécuter en tant qu'administrateur."
   },
   "#Process exited unexpectedly.\n\nPossible Causes\n\n* Corruption of the original file\n* Invalid crop range\n* Too long or invalid filename or path\n* Out of memory\n* Out of storage capacity\n* Lack of device performance\n* Needs permission to perform this action\n\nIf the error persists, try Run as administrator.": {
     "en": "Process exited unexpectedly.\n\nPossible Causes\n\n* Corruption of the original file\n* Invalid crop range\n* Too long or invalid filename or path\n* Out of memory\n* Out of storage capacity\n* Lack of device performance\n* Needs permission to perform this action\n\nIf the error persists, try Run as administrator.",
-    "ko": "프로세스가 예기치 못하게 종료되었습니다.\n\n가능한 원인\n\n* 원본 파일의 손상\n* 유효하지 않은 자르기 범위\n* 너무 길거나 유효하지 않은 파일명 또는 경로\n* 메모리 부족\n* 저장 용량 부족\n* 장치의 성능 부족\n* 해당 작업을 수행하기 위한 권한 필요\n\n오류가 지속된다면 프로그램을 관리자 권한으로 실행하세요."
+    "ko": "프로세스가 예기치 못하게 종료되었습니다.\n\n가능한 원인\n\n* 원본 파일의 손상\n* 유효하지 않은 자르기 범위\n* 너무 길거나 유효하지 않은 파일명 또는 경로\n* 메모리 부족\n* 저장 용량 부족\n* 장치의 성능 부족\n* 해당 작업을 수행하기 위한 권한 필요\n\n오류가 지속된다면 프로그램을 관리자 권한으로 실행하세요.",
+    "fr": "Le processus s'est arrêté de manière inattendue.\n\nCauses possibles\n\n* Corruption du fichier original\n* Plage de rognage invalide\n* Nom de fichier ou chemin trop long ou invalide\n* Mémoire insuffisante\n* Capacité de stockage insuffisante\n* Manque de performance de l'appareil\n* Permission requise pour effectuer cette action\n\nSi l'erreur persiste, essayez d'exécuter en tant qu'administrateur."
   },
   "#You have downloaded a total of {totalFiles}({totalSize}) videos so far.\nPlease become a patron of {appName} for better functionality and service.": {
     "en": "You have downloaded a total of {totalFiles}({totalSize}) videos so far.\nPlease become a patron of {appName} for better functionality and service.",
-    "ko": "지금까지 총 {totalFiles}개({totalSize})의 영상을 다운로드하셨습니다.\n더 나은 기능과 서비스를 위해 {appName}의 발전에 기여해 주세요."
+    "ko": "지금까지 총 {totalFiles}개({totalSize})의 영상을 다운로드하셨습니다.\n더 나은 기능과 서비스를 위해 {appName}의 발전에 기여해 주세요.",
+    "fr": "Vous avez téléchargé un total de {totalFiles}({totalSize}) vidéos jusqu'à présent.\nVeuillez devenir un mécène de {appName} pour de meilleures fonctionnalités et services."
   },
   "#Drag to change order.": {
     "en": "Drag to change order.",
-    "ko": "드래그하여 순서를 변경합니다."
+    "ko": "드래그하여 순서를 변경합니다.",
+    "fr": "Faites glisser pour changer l'ordre."
   },
   "#Allow URL Search to retrieve external content.\nYou can download content outside of Twitch.": {
     "en": "Allow URL Search to retrieve external content.\nYou can download content outside of Twitch.",
-    "ko": "URL 검색에서 외부 콘텐츠를 검색하도록 허용합니다.\nTwitch 외부의 콘텐츠를 다운로드할 수 있습니다."
+    "ko": "URL 검색에서 외부 콘텐츠를 검색하도록 허용합니다.\nTwitch 외부의 콘텐츠를 다운로드할 수 있습니다.",
+    "fr": "Autoriser la recherche par URL pour récupérer du contenu externe.\nVous pouvez télécharger du contenu en dehors de Twitch."
   },
   "#If commercials are broadcast during this stream, they will be handled according to the following rules.": {
     "en": "If commercials are broadcast during this stream, they will be handled according to the following rules.",
-    "ko": "만약 이 생방송에서 광고가 송출된다면 다음 설정에 따라 처리됩니다."
+    "ko": "만약 이 생방송에서 광고가 송출된다면 다음 설정에 따라 처리됩니다.",
+    "fr": "Si des publicités sont diffusées pendant ce stream, elles seront traitées selon les règles suivantes."
   },
   "#[Skip Segments]\n\nAds are skipped, but the stream during that time cannot be downloaded.\nIn this case, no alternative screen is shown, and it will directly connect to the scene after the ad, making the stream appear as if it's interrupted in the middle.": {
     "en": "[Skip Segments]\n\nAds are skipped, but the stream during that time cannot be downloaded.\nIn this case, no alternative screen is shown, and it will directly connect to the scene after the ad, making the stream appear as if it's interrupted in the middle.",
-    "ko": "[구간 건너뛰기]\n\n광고 구간을 건너뛰지만 그동안의 영상은 다운로드할 수 없습니다.\n이 경우 대체화면이 표시되지 않고 바로 광고 이후의 장면으로 연결되며 생방송이 중간에 끊어진 것처럼 보일 수 있습니다."
+    "ko": "[구간 건너뛰기]\n\n광고 구간을 건너뛰지만 그동안의 영상은 다운로드할 수 없습니다.\n이 경우 대체화면이 표시되지 않고 바로 광고 이후의 장면으로 연결되며 생방송이 중간에 끊어진 것처럼 보일 수 있습니다.",
+    "fr": "[Sauter les segments]\n\nLes publicités sont sautées, mais le stream pendant ce temps ne peut pas être téléchargé.\nDans ce cas, aucun écran alternatif n'est affiché, et cela se connectera directement à la scène après la publicité, donnant l'impression que le stream est interrompu au milieu."
   },
   "#[Alternative Screen]\n\nDisplays an alternate screen instead of skipping ads.\nIn this case, the entire length of the stream is maintained, but some players might not play the video correctly.": {
     "en": "[Alternative Screen]\n\nDisplays an alternate screen instead of skipping ads.\nIn this case, the entire length of the stream is maintained, but some players might not play the video correctly.",
-    "ko": "[대체 화면]\n\n광고 구간을 건너뛰지 않고 대체화면을 표시합니다.\n이 경우 생방송의 전체 길이가 유지되지만 일부 플레이어에서는 비디오가 올바르게 재생되지 않을 수 있습니다."
+    "ko": "[대체 화면]\n\n광고 구간을 건너뛰지 않고 대체화면을 표시합니다.\n이 경우 생방송의 전체 길이가 유지되지만 일부 플레이어에서는 비디오가 올바르게 재생되지 않을 수 있습니다.",
+    "fr": "[Écran alternatif]\n\nAffiche un écran alternatif au lieu de sauter les publicités.\nDans ce cas, la durée totale du stream est maintenue, mais certains lecteurs pourraient ne pas lire la vidéo correctement."
   },
   "#[Remux]\n\nThe file will be saved as a standard video file.\nThis involves a minor conversion process of the Transport Stream file to ensure its compatibility with standard players.\nThe quality of the video is retained, with only additional information about the video being modified for compatibility with standard players.": {
     "en": "[Remux]\n\nThe file will be saved as a standard video file.\nThis involves a minor conversion process of the Transport Stream file to ensure its compatibility with standard players.\nThe quality of the video is retained, with only additional information about the video being modified for compatibility with standard players.",
-    "ko": "[Remux]\n\n스트리밍 전용 파일을 일반적인 비디오 파일로 저장합니다.\n이 경우 스트리밍 전용 파일을 일반 플레이어가 재생할 수 있도록 약간의 변환 과정을 거칩니다.\n영상의 품질은 원본 그대로 유지되며 일반적인 플레이어가 재생할 수 있도록 영상에 대한 부가정보만 수정합니다."
+    "ko": "[Remux]\n\n스트리밍 전용 파일을 일반적인 비디오 파일로 저장합니다.\n이 경우 스트리밍 전용 파일을 일반 플레이어가 재생할 수 있도록 약간의 변환 과정을 거칩니다.\n영상의 품질은 원본 그대로 유지되며 일반적인 플레이어가 재생할 수 있도록 영상에 대한 부가정보만 수정합니다.",
+    "fr": "[Remux]\n\nLe fichier sera enregistré comme un fichier vidéo standard.\nCela implique un processus de conversion mineur du fichier Transport Stream pour assurer sa compatibilité avec les lecteurs standards.\nLa qualité de la vidéo est conservée, seules des informations supplémentaires sur la vidéo sont modifiées pour la compatibilité avec les lecteurs standards."
   },
   "#[Concat]\n\nThis feature enables you to store Transport Stream file in its original form, without any conversion to ensure its compatibility with standard players.\nSince these files are typically designed for streaming, they may not play correctly on certain players.\nAdditionally, if commercials are broadcast during a live stream or parts are missing due to network issues, some players might not play the video correctly.": {
     "en": "[Concat]\n\nThis feature enables you to store Transport Stream file in its original form, without any conversion to ensure its compatibility with standard players.\nSince these files are typically designed for streaming, they may not play correctly on certain players.\nAdditionally, if commercials are broadcast during a live stream or parts are missing due to network issues, some players might not play the video correctly.",
-    "ko": "[Concat]\n\n스트리밍 전용 파일을 일반 플레이어가 재생할 수 있도록 하는 변환 과정 없이 완전한 원본 상태로 저장합니다.\n이러한 파일은 일반적으로 스트리밍 전용 파일이기에 일부 플레이어에서는 올바르게 재생되지 않을 수 있습니다.\n또한, 생방송에서 광고가 송출되거나 네트워크 문제로 일부 구간이 누락되면 일부 플레이어에서는 비디오가 올바르게 재생되지 않을 수 있습니다."
+    "ko": "[Concat]\n\n스트리밍 전용 파일을 일반 플레이어가 재생할 수 있도록 하는 변환 과정 없이 완전한 원본 상태로 저장합니다.\n이러한 파일은 일반적으로 스트리밍 전용 파일이기에 일부 플레이어에서는 올바르게 재생되지 않을 수 있습니다.\n또한, 생방송에서 광고가 송출되거나 네트워크 문제로 일부 구간이 누락되면 일부 플레이어에서는 비디오가 올바르게 재생되지 않을 수 있습니다.",
+    "fr": "[Concat]\n\nCette fonctionnalité vous permet de stocker le fichier Transport Stream sous sa forme originale, sans aucune conversion pour assurer sa compatibilité avec les lecteurs standards.\nComme ces fichiers sont généralement conçus pour le streaming, ils peuvent ne pas être lus correctement sur certains lecteurs.\nDe plus, si des publicités sont diffusées pendant un stream en direct ou si des parties manquent en raison de problèmes de réseau, certains lecteurs pourraient ne pas lire la vidéo correctement."
   },
   "#If there are no problems with the sound source used, or if there are parts that have been muted in error despite having permission to use them, you can use this function to unmute them.\nIn some cases, unmute may not be successful.": {
     "en": "If there are no problems with the sound source used, or if there are parts that have been muted in error despite having permission to use them, you can use this function to unmute them.\nIn some cases, unmute may not be successful.",
-    "ko": "사용된 음원에 문제가 없거나 정당한 이용 권한이 있음에도 불구하고 오류로 음소거된 부분이 있다면 이 기능을 사용하여 음소거를 해제할 수 있습니다.\n경우에 따라 음소거 해제에 성공하지 못할 수도 있습니다."
+    "ko": "사용된 음원에 문제가 없거나 정당한 이용 권한이 있음에도 불구하고 오류로 음소거된 부분이 있다면 이 기능을 사용하여 음소거를 해제할 수 있습니다.\n경우에 따라 음소거 해제에 성공하지 못할 수도 있습니다.",
+    "fr": "S'il n'y a pas de problème avec la source sonore utilisée, ou s'il y a des parties qui ont été mises en sourdine par erreur malgré l'autorisation de les utiliser, vous pouvez utiliser cette fonction pour rétablir le son.\nDans certains cas, le rétablissement du son peut ne pas réussir."
   },
   "#Downloads the live replay continuously until the broadcast ends.\nThe download ends if there are no changes in the video for a certain amount of time.": {
     "en": "Downloads the live replay continuously until the broadcast ends.\nThe download ends if there are no changes in the video for a certain amount of time.",
-    "ko": "실시간 다시보기를 방송이 종료될 때까지 이어서 받아옵니다.\n일정 시간 동안 비디오의 변동 사항이 없으면 다운로드가 종료됩니다."
+    "ko": "실시간 다시보기를 방송이 종료될 때까지 이어서 받아옵니다.\n일정 시간 동안 비디오의 변동 사항이 없으면 다운로드가 종료됩니다.",
+    "fr": "Télécharge la rediffusion en direct en continu jusqu'à la fin de la diffusion.\nLe téléchargement se termine s'il n'y a aucun changement dans la vidéo pendant un certain temps."
   },
   "#This download will be prioritized. Downloads with this option take precedence over those without.": {
     "en": "This download will be prioritized. Downloads with this option take precedence over those without.",
-    "ko": "이 다운로드를 우선적으로 처리합니다. 이 옵션이 선택된 다운로드들은 선택되지 않은 다운로드들보다 우선적으로 다운로드됩니다."
+    "ko": "이 다운로드를 우선적으로 처리합니다. 이 옵션이 선택된 다운로드들은 선택되지 않은 다운로드들보다 우선적으로 다운로드됩니다.",
+    "fr": "Ce téléchargement sera prioritaire. Les téléchargements avec cette option ont la priorité sur ceux sans."
   },
   "#Downloading {contentType} from this channel has been restricted by the streamer({channel})'s request or by the administrator.": {
     "en": "Downloading {contentType} from this channel has been restricted by the streamer({channel})'s request or by the administrator.",
-    "ko": "스트리머({channel})의 요청 또는 관리자에 의해 해당 채널의 {contentType} 다운로드가 제한되었습니다."
+    "ko": "스트리머({channel})의 요청 또는 관리자에 의해 해당 채널의 {contentType} 다운로드가 제한되었습니다.",
+    "fr": "Le téléchargement de {contentType} depuis cette chaîne a été restreint par la demande du streamer ({channel}) ou par l'administrateur."
   },
   "#This content has been restricted by the streamer({channel})'s request or by the administrator.": {
     "en": "This content has been restricted by the streamer({channel})'s request or by the administrator.",
-    "ko": "스트리머({channel})의 요청 또는 관리자에 의해 제한된 콘텐츠입니다."
+    "ko": "스트리머({channel})의 요청 또는 관리자에 의해 제한된 콘텐츠입니다.",
+    "fr": "Ce contenu a été restreint par la demande du streamer ({channel}) ou par l'administrateur."
   },
   "#To protect the rights of streamers, {appName} restricts downloads when a content restriction request is received.": {
     "en": "To protect the rights of streamers, {appName} restricts downloads when a content restriction request is received.",
-    "ko": "{appName}은(는) 스트리머의 권리를 보호하기 위해 콘텐츠 제한 요청이 접수되면 해당 콘텐츠의 다운로드를 제한합니다."
+    "ko": "{appName}은(는) 스트리머의 권리를 보호하기 위해 콘텐츠 제한 요청이 접수되면 해당 콘텐츠의 다운로드를 제한합니다.",
+    "fr": "Pour protéger les droits des streamers, {appName} restreint les téléchargements lorsqu'une demande de restriction de contenu est reçue."
   },
   "#Your download has been terminated due to content restrictions.": {
     "en": "Your download has been terminated due to content restrictions.",
-    "ko": "콘텐츠가 제한되어 다운로드가 중단되었습니다."
+    "ko": "콘텐츠가 제한되어 다운로드가 중단되었습니다.",
+    "fr": "Votre téléchargement a été interrompu en raison de restrictions de contenu."
   },
   "#Attempting to start a new download based on your download history.\nFile data and download settings are generated based on this history and may differ from the current {contentType}. ({properties}, etc.)": {
     "en": "Attempting to start a new download based on your download history.\nFile data and download settings are generated based on this history and may differ from the current {contentType}. ({properties}, etc.)",
-    "ko": "다운로드 기록을 바탕으로 새 다운로드를 시작하려 합니다.\n파일 정보 및 다운로드 설정이 이 기록을 바탕으로 생성되며 현재의 {contentType}와(과) 다를 수 있습니다. ({properties} 등)"
+    "ko": "다운로드 기록을 바탕으로 새 다운로드를 시작하려 합니다.\n파일 정보 및 다운로드 설정이 이 기록을 바탕으로 생성되며 현재의 {contentType}와(과) 다를 수 있습니다. ({properties} 등)",
+    "fr": "Tentative de démarrage d'un nouveau téléchargement basé sur votre historique de téléchargement.\nLes données du fichier et les paramètres de téléchargement sont générés sur la base de cet historique et peuvent différer du {contentType} actuel. ({properties}, etc.)"
   }
 }

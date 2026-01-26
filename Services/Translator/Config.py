@@ -20,5 +20,10 @@ class Config:
             "languageId": "Korean",
             "languageCode": "ko",
             "displayName": "한국어"
+        },
+        "fr": {
+            "languageId": "French",
+            "languageCode": "fr",
+            "displayName": "Français"
         }
     }
