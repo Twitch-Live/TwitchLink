@@ -1,0 +1,15 @@
+{appName}
+[Téléchargeur de Stream / Vidéo / Clip Twitch]
+
+{appName} est conçu à partir de l'API de Twitch.
+{appName} agit simplement en relayant les requêtes de l'utilisateur vers l'API Twitch.
+Toutes les requêtes sont effectuées uniquement par l'utilisateur et le programme agit simplement comme un navigateur dans la communication entre le serveur Twitch et l'utilisateur.
+{appName} n'est ni détenu ni exploité par Twitch.
+
+Les utilisateurs doivent respecter les lois sur le droit d'auteur ou autres lois pertinentes.
+Par exemple, l'utilisation non autorisée, la redistribution et l'utilisation commerciale de contenu sans l'autorisation du détenteur des droits d'auteur sont interdites par la loi.
+L'utilisateur, et non le développeur, assume toute responsabilité découlant de toute violation de ceci.
+
+L'utilisateur est responsable de tous les avantages et désavantages qui découlent ou peuvent découler de l'utilisation de ce programme, et le développeur du programme n'est pas responsable.
+
+* En utilisant ce logiciel, vous acceptez nos conditions d'utilisation.
